@@ -82,15 +82,14 @@ jupyter notebook src/is_sagligi_güvenligi.ipynb
 4. Push yapın (`git push origin feature/yeni-ozellik`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 👥 İletişim
 
 - **Proje Sahibi**: Emin Güneş
-- **Email**: eminguness@gmail.com
+- **Email**: emingunes723@gmail.com
 
 ---
+
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
